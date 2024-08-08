@@ -40,6 +40,13 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 1. **Project Name**
    - **Description of Contribution:** Brief description of your contributions and their impact on the project.
    - **Repository:** [GitHub](#)
+   - 
+## ![Certifications](https://img.shields.io/badge/Certifications-34495E?style=for-the-badge&logo=github)
+- **Google Data Analytics Certification**
+- **TestOut Network Pro Certification**
+- **IT Specialist Cyber Security Certification**
+- **CCST - Cyber Security Certification**
+- **Learn Python 3 Certification**
 
 ## ![About Me](https://img.shields.io/badge/About%20Me-34495E?style=for-the-badge&logo=github)
 I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaScript. I enjoy working on practical coding projects and strive to create user-centric solutions. My goal is to leverage technology to solve real-world problems and continuously improve through collaboration and innovation.
