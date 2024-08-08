@@ -30,7 +30,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 
 ---
 
-## ![Web Development Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=github)
+## ![Full-Stack Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=github)
 1. **Project Name**
    - **Description:** Brief description of the project highlighting its purpose and impact.
    - **Tech Stack:** HTML, CSS, JavaScript
