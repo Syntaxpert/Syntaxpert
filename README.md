@@ -5,7 +5,6 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 ## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
 - [Web Development Projects](#web-development-projects)
 - [Application Projects](#application-projects)
-- [Game Development Projects](#game-development-projects)
 - [Open Source Contributions](#open-source-contributions)
 - [About Me](#about-me)
 - [Resume](#resume)
@@ -13,14 +12,6 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 
 ## ![Web Development Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=github)
 1. **Project Name**
-   - **Description:** Brief description of the project highlighting its purpose and impact.
-   - **Tech Stack:** HTML, CSS, JavaScript
-   - **Features:** Key functionalities and user benefits.
-   - **Screenshots:** ![Screenshot](#)
-   - **Live Demo:** [Link](#)
-   - **Source Code:** [GitHub](#)
-
-2. **Project Name**
    - **Description:** Brief description of the project highlighting its purpose and impact.
    - **Tech Stack:** HTML, CSS, JavaScript
    - **Features:** Key functionalities and user benefits.
@@ -37,20 +28,8 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
-2. **Project Name**
-   - **Description:** Brief description of the project with details on its functionality and real-world application.
-   - **Tech Stack:** Python
-   - **Features:** Key functionalities and user benefits.
-   - **Screenshots:** ![Screenshot](#)
-   - **Live Demo:** [Link](#)
-   - **Source Code:** [GitHub](#)
-
 ## ![Open Source Contributions](https://img.shields.io/badge/Open%20Source%20Contributions-2C3E50?style=for-the-badge&logo=github)
 1. **Project Name**
-   - **Description of Contribution:** Brief description of your contributions and their impact on the project.
-   - **Repository:** [GitHub](#)
-
-2. **Project Name**
    - **Description of Contribution:** Brief description of your contributions and their impact on the project.
    - **Repository:** [GitHub](#)
 
@@ -72,5 +51,5 @@ I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaSc
 - **[Download My Resume](#)**
 
 ## ![Contact](https://img.shields.io/badge/Contact-34495E?style=for-the-badge&logo=github)
-- Email: [joshroadery@gmail.com](mailto:joshroadery@gmail.com)
+- Email: [j.duong195@gmail.com](mailto:j.duong195@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](#)
