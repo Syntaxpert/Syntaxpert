@@ -32,13 +32,6 @@ Welcome to my personal programming portfolio. Here you will find a collection of
 2. **Project Name**
    - Same structure.
 
-## Game Development Projects
-1. **Project Name**
-   - **Description**
-   - **Tech Stack:** Unity, C#, etc.
-   - **Features**
-   - **Live Demo:** [Link](#)
-   - **Source Code:** [GitHub](#)
 
 ## Open Source Contributions
 1. **Project Name**
