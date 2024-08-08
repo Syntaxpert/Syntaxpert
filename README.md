@@ -14,10 +14,11 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 1. [Web Development Projects](#web-development-projects)
 2. [Application Projects](#application-projects)
 3. [Open Source Contributions](#open-source-contributions)
-4. [Certifications](#certifications)
-5. [About Me](#about-me)
-6. [Resume](#resume)
-7. [Contact](#contact)
+4. [FreeCodeCamp Projects](#freecodecamp-projects)
+5. [Certifications](#certifications)
+6. [About Me](#about-me)
+7. [Resume](#resume)
+8. [Contact](#contact)
 
 ---
 
