@@ -91,3 +91,35 @@ I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaSc
 ## Contact
 - Email: [joshroadery@gmail.com](mailto:joshroadery@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](#)
+
+---
+
+<!-- Design and Aesthetics -->
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        color: #333;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+    h1, h2, h3 {
+        color: #2c3e50;
+    }
+    a {
+        color: #3498db;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    .container {
+        max-width: 800px;
+        margin: auto;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+</style>
