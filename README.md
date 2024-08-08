@@ -52,4 +52,4 @@ I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaSc
 
 ## ![Contact](https://img.shields.io/badge/Contact-34495E?style=for-the-badge&logo=github)
 - Email: [j.duong195@gmail.com](mailto:j.duong195@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
+- LinkedIn: [LinkedIn Profile](#)
