@@ -36,7 +36,7 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ---
 
-## ![Full-Stack Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=github)
+## ![Full-Stack Projects](https://img.shields.io/badge/Full%20Stack%20Projects-2C3E50?style=for-the-badge&logo=github)
 
 ### **[Project Name]**
 - **📝 Description:** A brief overview highlighting the project's purpose and impact.
