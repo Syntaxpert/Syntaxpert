@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to [Your Name]'s Portfolio</h1>
+        <h1>Welcome to Syntaxpert Portfolio</h1>
         <p>Software Engineer | [Your Key Skills]</p>
         <nav>
             <ul>
