@@ -13,12 +13,11 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 ## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
 1. [FreeCodeCamp Projects](#freecodecamp-projects)
 2. [Web Development Projects](#web-development-projects)
-3. [Application Projects](#application-projects)
-4. [Open Source Contributions](#open-source-contributions)
-5. [Certifications](#certifications)
-6. [About Me](#about-me)
-7. [Resume](#resume)
-8. [Contact](#contact)
+3. [Open Source Contributions](#open-source-contributions)
+4. [Certifications](#certifications)
+5. [About Me](#about-me)
+6. [Resume](#resume)
+7. [Contact](#contact)
 
 ---
    
@@ -28,7 +27,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Tech Stack:** HTML, CSS
    - **Features:** Key functionalities and user benefits.
    - **Screenshots:** ![](https://private-user-images.githubusercontent.com/58376810/356395385-588a33e7-77d1-4087-8ea6-1eb44f5bb251.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxNTUxMjksIm5iZiI6MTcyMzE1NDgyOSwicGF0aCI6Ii81ODM3NjgxMC8zNTYzOTUzODUtNTg4YTMzZTctNzdkMS00MDg3LThlYTYtMWViNDRmNWJiMjUxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDIyMDcwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJiOWQ4Yjc3MzNjZjI4ZjllMTZmZTQwZGIzZjQwNTAwNThiNzk4NGMxYTczYmY2ZDJkMmE4ZDM5NTg5NTI3ZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.F3LR-ri3WDbI5jyWmsUKCWrK52JcHObb-QpfW8eBs_w)
-   - **Live Demo:** [Link](#)
+   - **Live Demo:** [Link](https://syntaxpert.github.io/Syntaxpert/)
    - **Source Code:** [GitHub](#)
 
 ---
