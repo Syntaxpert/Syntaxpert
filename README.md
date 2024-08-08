@@ -13,44 +13,63 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 
 ## Web Development Projects
 1. **Project Name**
-   - **Description:** Brief description of the project.
+   - **Description:** Brief description of the project highlighting its purpose and impact.
    - **Tech Stack:** HTML, CSS, JavaScript
-   - **Features:** Key functionalities.
+   - **Features:** Key functionalities and user benefits.
+   - **Screenshots:** ![Screenshot](#)
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
 2. **Project Name**
-   - Same structure.
+   - **Description:** Brief description of the project highlighting its purpose and impact.
+   - **Tech Stack:** HTML, CSS, JavaScript
+   - **Features:** Key functionalities and user benefits.
+   - **Screenshots:** ![Screenshot](#)
+   - **Live Demo:** [Link](#)
+   - **Source Code:** [GitHub](#)
 
 ## Application Projects
 1. **Project Name**
-   - **Description:** Brief description of the project.
+   - **Description:** Brief description of the project with details on its functionality and real-world application.
    - **Tech Stack:** Python
-   - **Features:** Key functionalities.
+   - **Features:** Key functionalities and user benefits.
+   - **Screenshots:** ![Screenshot](#)
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
 2. **Project Name**
-   - Same structure.
+   - **Description:** Brief description of the project with details on its functionality and real-world application.
+   - **Tech Stack:** Python
+   - **Features:** Key functionalities and user benefits.
+   - **Screenshots:** ![Screenshot](#)
+   - **Live Demo:** [Link](#)
+   - **Source Code:** [GitHub](#)
 
 ## Game Development Projects
 1. **Project Name**
-   - **Description:** Brief description of the project.
+   - **Description:** Brief description of the game, its mechanics, and its objectives.
    - **Tech Stack:** Unity, Unreal Engine
-   - **Features:** Key functionalities and gameplay elements.
+   - **Features:** Key functionalities, gameplay elements, and player experience.
+   - **Screenshots:** ![Screenshot](#)
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
 2. **Project Name**
-   - Same structure.
+   - **Description:** Brief description of the game, its mechanics, and its objectives.
+   - **Tech Stack:** Unity, Unreal Engine
+   - **Features:** Key functionalities, gameplay elements, and player experience.
+   - **Screenshots:** ![Screenshot](#)
+   - **Live Demo:** [Link](#)
+   - **Source Code:** [GitHub](#)
 
 ## Open Source Contributions
 1. **Project Name**
-   - **Description of Contribution:** Brief description of your contributions.
+   - **Description of Contribution:** Brief description of your contributions and their impact on the project.
    - **Repository:** [GitHub](#)
 
 2. **Project Name**
-   - Same structure.
+   - **Description of Contribution:** Brief description of your contributions and their impact on the project.
+   - **Repository:** [GitHub](#)
 
 ## About Me
 I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaScript. I enjoy working on practical coding projects and strive to create user-centric solutions. My goal is to leverage technology to solve real-world problems and continuously improve through collaboration and innovation.
@@ -70,5 +89,5 @@ I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaSc
 - **[Download My Resume](#)**
 
 ## Contact
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [joshroadery@gmail.com](mailto:joshroadery@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](#)
