@@ -1,6 +1,8 @@
 # Personal Portfolio
 
-Welcome to my personal programming portfolio. Here you will find a collection of my projects showcasing skills in web development, application development, and more. Explore the repositories and reach out if you have any questions or feedback.
+Hi there! I’m Josh, a software enthusiast diving into web development with a focus on Python, HTML/CSS, and JavaScript. I enjoy working on practical coding projects and am always exploring new ways to enhance productivity through technology. I’m passionate about creating efficient, user-friendly solutions and love collaborating with others who share an interest in tech and innovation.
+
+Feel free to check out my projects and connect!
 
 ## Table of Contents
 - [Web Development Projects](#web-development-projects)
