@@ -98,7 +98,8 @@ I’m **Josh**, a dedicated software developer with expertise in **Python**, **H
 ---
 
 ## ![Resume](https://img.shields.io/badge/Resume-2C3E50?style=for-the-badge&logo=github)
-- **📄 [Download My Resume](#)**
+
+[![Resume](https://img.shields.io/badge/Download%20Resume-2C3E50?style=for-the-badge&logo=github)](https://github.com/Syntaxpert/Syntaxpert/raw/main/Work%20Resume%20(2).png)
 
 ---
 
