@@ -21,6 +21,17 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 8. [Contact](#contact)
 
 ---
+   
+## ![FreeCodeCamp Projects](https://img.shields.io/badge/FreeCodeCamp%20Projects-2C3E50?style=for-the-badge&logo=freecodecamp)
+1. **Responsive Web Design Project**
+   - **Description:** A project focused on creating responsive web pages.
+   - **Tech Stack:** HTML, CSS
+   - **Features:** Key functionalities and user benefits.
+   - **Screenshots:** ![Screenshot](#)
+   - **Live Demo:** [Link](#)
+   - **Source Code:** [GitHub](#)
+
+---
 
 ## ![Web Development Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=github)
 1. **Project Name**
