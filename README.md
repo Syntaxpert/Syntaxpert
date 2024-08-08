@@ -2,6 +2,8 @@
 
 Hi there! I’m Josh, a software enthusiast specializing in web development with a focus on Python, HTML/CSS, and JavaScript. I’m passionate about creating efficient, user-friendly solutions and love exploring new ways to enhance productivity through technology. Feel free to check out my projects and connect!
 
+## ![Languages and Tools](https://img.shields.io/badge/Languages%20and%20Tools-34495E?style=for-the-badge&logo=tools)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
