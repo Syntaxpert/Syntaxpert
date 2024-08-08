@@ -12,7 +12,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 
 ## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
 1. [FreeCodeCamp Projects](#freecodecamp-projects)
-2. [Web Development Projects](#full-stack-projects)
+2. [Full-Stack Projects](#full-stack-projects)
 3. [Open Source Contributions](#open-source-contributions)
 4. [Certifications](#certifications)
 5. [About Me](#about-me)
