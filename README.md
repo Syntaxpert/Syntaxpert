@@ -26,7 +26,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Description:** A project focused on creating responsive web pages.
    - **Tech Stack:** HTML, CSS
    - **Features:** Key functionalities and user benefits.
-   - **Source Code:** [GitHub](#)
+   - **Source Code:** [GitHub](https://github.com/Syntaxpert/responsive-web-design-project.git)
 
 ---
 
@@ -35,8 +35,6 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Description:** Brief description of the project highlighting its purpose and impact.
    - **Tech Stack:** HTML, CSS, JavaScript
    - **Features:** Key functionalities and user benefits.
-   - **Screenshots:** ![Screenshot](#)
-   - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
 ---
