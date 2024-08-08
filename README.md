@@ -1,8 +1,8 @@
-# <span style="color:#2C3E50">Personal Portfolio</span>
+# ![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-2C3E50?style=for-the-badge&logo=github)
 
 Hi there! I’m Josh, a software enthusiast specializing in web development with a focus on Python, HTML/CSS, and JavaScript. I’m passionate about creating efficient, user-friendly solutions and love exploring new ways to enhance productivity through technology. Feel free to check out my projects and connect!
 
-## <span style="color:#34495E">Table of Contents</span>
+## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
 - [Web Development Projects](#web-development-projects)
 - [Application Projects](#application-projects)
 - [Game Development Projects](#game-development-projects)
@@ -11,7 +11,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
 - [Resume](#resume)
 - [Contact](#contact)
 
-## <span style="color:#2C3E50">Web Development Projects</span>
+## ![Web Development Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=github)
 1. **Project Name**
    - **Description:** Brief description of the project highlighting its purpose and impact.
    - **Tech Stack:** HTML, CSS, JavaScript
@@ -28,7 +28,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
-## <span style="color:#34495E">Application Projects</span>
+## ![Application Projects](https://img.shields.io/badge/Application%20Projects-34495E?style=for-the-badge&logo=github)
 1. **Project Name**
    - **Description:** Brief description of the project with details on its functionality and real-world application.
    - **Tech Stack:** Python
@@ -45,7 +45,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
-## <span style="color:#2C3E50">Open Source Contributions</span>
+## ![Open Source Contributions](https://img.shields.io/badge/Open%20Source%20Contributions-2C3E50?style=for-the-badge&logo=github)
 1. **Project Name**
    - **Description of Contribution:** Brief description of your contributions and their impact on the project.
    - **Repository:** [GitHub](#)
@@ -54,7 +54,7 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Description of Contribution:** Brief description of your contributions and their impact on the project.
    - **Repository:** [GitHub](#)
 
-## <span style="color:#34495E">About Me</span>
+## ![About Me](https://img.shields.io/badge/About%20Me-34495E?style=for-the-badge&logo=github)
 I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaScript. I enjoy working on practical coding projects and strive to create user-centric solutions. My goal is to leverage technology to solve real-world problems and continuously improve through collaboration and innovation.
 
 **Skills:**
@@ -68,9 +68,9 @@ I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaSc
 - Continuously learn and apply new technologies.
 - Collaborate with peers in tech-focused projects.
 
-## <span style="color:#2C3E50">Resume</span>
+## ![Resume](https://img.shields.io/badge/Resume-2C3E50?style=for-the-badge&logo=github)
 - **[Download My Resume](#)**
 
-## <span style="color:#34495E">Contact</span>
+## ![Contact](https://img.shields.io/badge/Contact-34495E?style=for-the-badge&logo=github)
 - Email: [joshroadery@gmail.com](mailto:joshroadery@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](#)
