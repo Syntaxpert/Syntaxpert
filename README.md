@@ -58,8 +58,8 @@ I’m Josh, a software enthusiast with expertise in Python, HTML/CSS, and JavaSc
 **Skills:**
 - Web Development: HTML, CSS, JavaScript
 - Application Development: Python
-- Game Development: Unity, Unreal Engine
 - Productivity Tools: Notion
+- AI: ChatGPT
 
 **Career Objectives:**
 - Develop engaging and effective software solutions.
