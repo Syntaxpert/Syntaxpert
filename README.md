@@ -38,7 +38,7 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ## ![Full-Stack Projects](https://img.shields.io/badge/Full%20Stack%20Projects-2C3E50?style=for-the-badge&logo=github)
 
-### **[Gamified Habit Tracker]**
+### **Gamified Habit Tracker**
 
 - **📝 Description:**  
   The Gamified Habit Tracker is a web application designed to help users build and maintain positive habits through gamification. Users can create, track, and manage their habits while earning rewards and leveling up as they progress. The project aims to motivate users to stick to their goals by making habit formation an engaging and enjoyable experience.
