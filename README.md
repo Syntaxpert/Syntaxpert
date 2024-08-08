@@ -38,10 +38,28 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ## ![Full-Stack Projects](https://img.shields.io/badge/Full%20Stack%20Projects-2C3E50?style=for-the-badge&logo=github)
 
-### **[Project Name]**
-- **📝 Description:** A brief overview highlighting the project's purpose and impact.
-- **💻 Tech Stack:** HTML, CSS, JavaScript
-- **✨ Features:** Key functionalities and user benefits.
+### **[Gamified Habit Tracker]**
+
+- **📝 Description:**  
+  The Gamified Habit Tracker is a web application designed to help users build and maintain positive habits through gamification. Users can create, track, and manage their habits while earning rewards and leveling up as they progress. The project aims to motivate users to stick to their goals by making habit formation an engaging and enjoyable experience.
+
+- **💻 Tech Stack:**  
+  - **Frontend:** HTML, CSS, JavaScript (React.js)  
+  - **Backend:** Node.js, Express.js  
+  - **Database:** MongoDB  
+  - **Authentication:** JWT (JSON Web Tokens)  
+  - **Hosting:** Heroku or Vercel  
+  - **Version Control:** Git, GitHub  
+
+- **✨ Features:**  
+  - User authentication and secure login/signup.
+  - Create and manage multiple habits with customizable settings.
+  - Daily, weekly, and monthly habit tracking.
+  - Gamification elements such as points, badges, and levels.
+  - Progress visualization through graphs and charts.
+  - Push notifications and reminders to keep users on track.
+  - Responsive design for mobile and desktop users.
+
 - **🔗 Source Code:** [GitHub](#)
 
 ---
