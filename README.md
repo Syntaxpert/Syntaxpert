@@ -1,7 +1,5 @@
 # ![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-2C3E50?style=for-the-badge&logo=github)
 
-![Welcome](https://media.giphy.com/media/l2JHRhAtnJSDNJ2py/giphy.gif)
-
 Hi there! I’m Josh, a software enthusiast specializing in web development with a focus on Python, HTML/CSS, and JavaScript. I’m passionate about creating efficient, user-friendly solutions and love exploring new ways to enhance productivity through technology. Feel free to check out my projects and connect!
 
 ---
