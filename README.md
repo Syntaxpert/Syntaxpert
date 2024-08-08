@@ -48,8 +48,6 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
   - **Backend:** Node.js, Express.js  
   - **Database:** MongoDB  
   - **Authentication:** JWT (JSON Web Tokens)  
-  - **Hosting:** Heroku or Vercel  
-  - **Version Control:** Git, GitHub  
 
 - **✨ Features:**  
   - User authentication and secure login/signup.
