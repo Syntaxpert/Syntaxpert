@@ -25,26 +25,33 @@ Feel free to check out my projects and connect!
 
 ## Application Projects
 1. **Project Name**
-   - **Description**
+   - **Description:** Brief description of the project.
    - **Tech Stack:** Python, Java, etc.
-   - **Features**
+   - **Features:** Key functionalities.
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
 2. **Project Name**
    - Same structure.
 
-
-## Open Source Contributions
+## Game Development Projects
 1. **Project Name**
-   - **Description of Contribution**
-   - **Repository:** [GitHub](#)
+   - **Description:** Brief description of the project.
+   - **Tech Stack:** Unity, Unreal Engine, etc.
+   - **Features:** Key functionalities and gameplay elements.
+   - **Live Demo:** [Link](#)
+   - **Source Code:** [GitHub](#)
 
 2. **Project Name**
    - Same structure.
 
-## About Me
-Hi, I'm Syntaxpert, a passionate developer with experience in web development, application development, and game development. I love solving problems and building impactful projects. Check out my work and feel free to connect.
+## Open Source Contributions
+1. **Project Name**
+   - **Description of Contribution:** Brief description of your contributions.
+   - **Repository:** [GitHub](#)
+
+2. **Project Name**
+   - Same structure.
 
 ## Contact
 - Email: [your-email@example.com](mailto:your-email@example.com)
