@@ -45,23 +45,6 @@ Hi there! I’m Josh, a software enthusiast specializing in web development with
    - **Live Demo:** [Link](#)
    - **Source Code:** [GitHub](#)
 
-## Game Development Projects
-1. **Project Name**
-   - **Description:** Brief description of the game, its mechanics, and its objectives.
-   - **Tech Stack:** Unity, Unreal Engine
-   - **Features:** Key functionalities, gameplay elements, and player experience.
-   - **Screenshots:** ![Screenshot](#)
-   - **Live Demo:** [Link](#)
-   - **Source Code:** [GitHub](#)
-
-2. **Project Name**
-   - **Description:** Brief description of the game, its mechanics, and its objectives.
-   - **Tech Stack:** Unity, Unreal Engine
-   - **Features:** Key functionalities, gameplay elements, and player experience.
-   - **Screenshots:** ![Screenshot](#)
-   - **Live Demo:** [Link](#)
-   - **Source Code:** [GitHub](#)
-
 ## Open Source Contributions
 1. **Project Name**
    - **Description of Contribution:** Brief description of your contributions and their impact on the project.
