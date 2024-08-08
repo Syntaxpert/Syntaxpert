@@ -49,7 +49,7 @@ Welcome to my personal programming portfolio. Here you will find a collection of
    - Same structure.
 
 ## About Me
-Hi, I'm [Your Name], a passionate developer with experience in web development, application development, and game development. I love solving problems and building impactful projects. Check out my work and feel free to connect.
+Hi, I'm Syntaxpert, a passionate developer with experience in web development, application development, and game development. I love solving problems and building impactful projects. Check out my work and feel free to connect.
 
 ## Contact
 - Email: [your-email@example.com](mailto:your-email@example.com)
