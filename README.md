@@ -1,6 +1,6 @@
 # ![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-2C3E50?style=for-the-badge&logo=github)
 
-Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in web development, focusing on **Python**, **HTML/CSS**, and **JavaScript**. My mission is to create efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Dive into my projects and feel free to connect!
+Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in web development, focusing on **Python**, **HTML/CSS**, and **JavaScript**. My mission is to create efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Dive into my projects, currently in progress, and feel free to connect!
 
 ---
 
@@ -16,7 +16,7 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
 
-- [📂 Web Developmnt Projects](#freecodecamp-projects)
+- [📂 Web Development Projects](#web-development-projects)
 - [💻 Full-Stack Projects](#full-stack-projects)
 - [🔧 Open Source Contributions](#open-source-contributions)
 - [🎓 Certifications](#certifications)
@@ -26,33 +26,39 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ---
 
-## ![Web Development Projects](https://img.shields.io/badge/FreeCodeCamp%20Projects-2C3E50?style=for-the-badge&logo=freecodecamp)
+## ![Web Development Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=freecodecamp)
 
 ### **IN PROGRESS**
-- **📝 Description:** 
-- **💻 Tech Stack:** HTML, CSS
-- **✨ Features:** 
-- **🔗 Source Code:** [GitHub]()
+- **📝 Description:** Working on a series of JavaScript projects to enhance DOM manipulation skills and build a strong foundation in web development.
+- **💻 Tech Stack:** HTML, CSS, JavaScript
+- **✨ Features:** Responsive design, interactive UI elements, and clean code.
+- **🔗 Source Code:** [GitHub](#) (Coming Soon)
 
 ---
 
 ## ![Full-Stack Projects](https://img.shields.io/badge/Full%20Stack%20Projects-2C3E50?style=for-the-badge&logo=github)
 
+### **IN PROGRESS**
+- **📝 Description:** Developing a React/Redux application as a mid-sized project to demonstrate front-end proficiency.
+- **💻 Tech Stack:** React, Redux, JavaScript, HTML, CSS
+- **✨ Features:** State management with Redux, dynamic content rendering, and responsive UI.
+- **🔗 Source Code:** [GitHub](#) (Coming Soon)
+
+---
 
 ### **IN PROGRESS**
-- **📝 Description:** 
-- **💻 Tech Stack:** HTML, CSS
-- **✨ Features:** 
-- **🔗 Source Code:** [GitHub]()
-
+- **📝 Description:** Building a Node.js and Express.js back-end for a secure, scalable web application.
+- **💻 Tech Stack:** Node.js, Express.js, MongoDB
+- **✨ Features:** RESTful API, user authentication, and database integration.
+- **🔗 Source Code:** [GitHub](#) (Coming Soon)
 
 ---
 
 ## ![Open Source Contributions](https://img.shields.io/badge/Open%20Source%20Contributions-2C3E50?style=for-the-badge&logo=github)
 
-### **[Project Name]**
-- **🔧 Description of Contribution:** A concise summary of your contributions and their significance to the project.
-- **📂 Repository:** [GitHub](#)
+### **IN PROGRESS**
+- **🔧 Description of Contribution:** Details of contributions to open-source projects will be added as they are completed.
+- **📂 Repository:** [GitHub](#) (Coming Soon)
 
 ---
 
@@ -77,10 +83,6 @@ I’m **Josh**, a dedicated software developer with expertise in **Python**, **H
 - Develop engaging and impactful software solutions.
 - Stay at the forefront of technology by learning and applying new skills.
 - Collaborate with industry peers on innovative projects.
-
----
-
-
 
 ---
 
