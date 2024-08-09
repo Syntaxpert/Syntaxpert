@@ -1,8 +1,6 @@
-# ![Personal Portfolio](https://img.shields.io/badge/Personal%20Portfolio-2C3E50?style=for-the-badge&logo=github)
+
 
 Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in web development, focusing on **Python**, **HTML/CSS**, and **JavaScript**. My mission is to create efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Dive into my projects, currently in progress, and feel free to connect!
-
----
 
 ## ![Languages and Tools](https://img.shields.io/badge/Languages%20and%20Tools-34495E?style=for-the-badge&logo=tools)
 
