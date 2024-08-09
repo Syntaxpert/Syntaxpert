@@ -64,9 +64,9 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ## ![Certifications](https://img.shields.io/badge/Certifications-34495E?style=for-the-badge&logo=github)
 
-- **🎓 Google Data Analytics Certification**
-- **🎓 TestOut Network Pro Certification**
-- **🎓 IT Specialist Cyber Security Certification**
+- **🎓 Google Data Analytics**
+- **🎓 TestOut Network Pro**
+- **🎓 IT Specialist Cyber Security**
 
 ---
 
