@@ -14,18 +14,6 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ---
 
-## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
-
-- [📂 Web Development Projects](#web-development-projects)
-- [💻 Full-Stack Projects](#full-stack-projects)
-- [🔧 Open Source Contributions](#open-source-contributions)
-- [🎓 Certifications](#certifications)
-- [👤 About Me](#about-me)
-- [📄 Resume](#resume)
-- [📬 Contact](#contact)
-
----
-
 ## ![Web Development Projects](https://img.shields.io/badge/Web%20Development%20Projects-2C3E50?style=for-the-badge&logo=freecodecamp)
 
 ### **IN PROGRESS**
