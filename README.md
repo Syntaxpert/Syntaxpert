@@ -16,7 +16,7 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ## ![Table of Contents](https://img.shields.io/badge/Table%20of%20Contents-34495E?style=for-the-badge&logo=github)
 
-- [📂 FreeCodeCamp Projects](#freecodecamp-projects)
+- [📂 Web Developmnt Projects](#freecodecamp-projects)
 - [💻 Full-Stack Projects](#full-stack-projects)
 - [🔧 Open Source Contributions](#open-source-contributions)
 - [🎓 Certifications](#certifications)
@@ -26,39 +26,25 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 
 ---
 
-## ![FreeCodeCamp Projects](https://img.shields.io/badge/FreeCodeCamp%20Projects-2C3E50?style=for-the-badge&logo=freecodecamp)
+## ![Web Development Projects](https://img.shields.io/badge/FreeCodeCamp%20Projects-2C3E50?style=for-the-badge&logo=freecodecamp)
 
-### **Responsive Web Design Project**
-- **📝 Description:** A project focused on creating responsive web pages that adapt seamlessly across devices.
+### **IN PROGRESS**
+- **📝 Description:** 
 - **💻 Tech Stack:** HTML, CSS
-- **✨ Features:** Mobile-first design, accessibility, optimized performance.
-- **🔗 Source Code:** [GitHub](https://github.com/Syntaxpert/responsive-web-design-project.git)
+- **✨ Features:** 
+- **🔗 Source Code:** [GitHub]()
 
 ---
 
 ## ![Full-Stack Projects](https://img.shields.io/badge/Full%20Stack%20Projects-2C3E50?style=for-the-badge&logo=github)
 
-### **Gamified Habit Tracker**
 
-- **📝 Description:**  
-  The Gamified Habit Tracker is a web application designed to help users build and maintain positive habits through gamification. Users can create, track, and manage their habits while earning rewards and leveling up as they progress. The project aims to motivate users to stick to their goals by making habit formation an engaging and enjoyable experience.
+### **IN PROGRESS**
+- **📝 Description:** 
+- **💻 Tech Stack:** HTML, CSS
+- **✨ Features:** 
+- **🔗 Source Code:** [GitHub]()
 
-- **💻 Tech Stack:**  
-  - **Frontend:** HTML, CSS, JavaScript (React.js)  
-  - **Backend:** Node.js, Express.js  
-  - **Database:** MongoDB  
-  - **Authentication:** JWT (JSON Web Tokens)  
-
-- **✨ Features:**  
-  - User authentication and secure login/signup.
-  - Create and manage multiple habits with customizable settings.
-  - Daily, weekly, and monthly habit tracking.
-  - Gamification elements such as points, badges, and levels.
-  - Progress visualization through graphs and charts.
-  - Push notifications and reminders to keep users on track.
-  - Responsive design for mobile and desktop users.
-
-- **🔗 Source Code:** [GitHub](#)
 
 ---
 
@@ -75,8 +61,6 @@ Hi there! 👋 I’m **Josh**, a passionate software enthusiast specializing in 
 - **🎓 Google Data Analytics Certification**
 - **🎓 TestOut Network Pro Certification**
 - **🎓 IT Specialist Cyber Security Certification**
-- **🎓 CCST - Cyber Security Certification**
-- **🎓 Learn Python 3 Certification**
 
 ---
 
@@ -86,7 +70,6 @@ I’m **Josh**, a dedicated software developer with expertise in **Python**, **H
 
 **🛠️ Skills:**
 - **Web Development:** HTML, CSS, JavaScript
-- **Application Development:** Python
 - **Productivity Tools:** Notion
 - **AI:** ChatGPT
 
