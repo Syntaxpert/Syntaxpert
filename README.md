@@ -77,8 +77,8 @@ I’m **Josh**, a dedicated software developer with expertise in **Python**, **H
 ## ![Contact](https://img.shields.io/badge/Contact-34495E?style=for-the-badge&logo=github)
 
 - **📧 Email:** [j.duong195@gmail.com](mailto:j.duong195@gmail.com)
-**🔗 [LinkedIn](https://www.linkedin.com/in/j-duong-199997321/):**
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/j-duong-199997321/)
+**🔗 LinkedIn:** [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:20px; height:20px;">](https://www.linkedin.com/in/j-duong-199997321/)
+
 
 
 ---
