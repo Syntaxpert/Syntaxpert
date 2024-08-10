@@ -2,8 +2,7 @@
 
 I’m **Josh**, a passionate software enthusiast specializing in web development, focusing on **Python**, **HTML/CSS**, and **JavaScript**. My mission is to create efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Dive into my projects, currently in progress, and feel free to connect!
 
-### 🌐 Personal Portfolio
-Explore my work and learn more about me on my personal portfolio website: [syntaxpert.netlify.app](https://syntaxpert.netlify.app/)
+### [![Portfolio](https://img.shields.io/badge/Portfolio-29b6f6?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://syntaxpert.netlify.app/)
 
 ## ![Languages and Tools](https://img.shields.io/badge/Languages%20and%20Tools-34495E?style=for-the-badge&logo=tools)
 
