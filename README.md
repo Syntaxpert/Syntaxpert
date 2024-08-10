@@ -31,7 +31,8 @@ I'm **Josh**, a software developer specializing in **Python**, **HTML/CSS**, and
 
 ## Current Projects
 
-- **Web Development Projects:** Enhancing DOM manipulation with JavaScript, focused on responsive design and interactive UI. [Source Code](https://github.com/yourusername) (Coming Soon)
+- **Web Development Projects:**
+  - **FreeCodeCamp Projects:** Enhancing DOM manipulation and responsive design through a series of JavaScript-based projects focused on building interactive user interfaces. [Source Code](https://github.com/yourusername) (Coming Soon)
 
 - **Front-End Projects:**
   - **JavaScript DOM Manipulation Project:** A showcase of small, interactive JavaScript applications. [Source Code](https://github.com/yourusername) (Coming Soon)
@@ -42,6 +43,7 @@ I'm **Josh**, a software developer specializing in **Python**, **HTML/CSS**, and
 
 - **Full-Stack Projects:**
   - **Full-Stack Application:** A complete, deployed full-stack project combining React, Redux, Node.js, and Express.js, integrating front-end and back-end technologies to create a seamless and responsive web application. [Source Code](https://github.com/yourusername) (Coming Soon)
+
 
 ---
 
