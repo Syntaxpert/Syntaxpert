@@ -33,9 +33,17 @@ I'm **Josh**, a software developer specializing in **Python**, **HTML/CSS**, and
 
 - **Web Development Projects:** Enhancing DOM manipulation with JavaScript, focused on responsive design and interactive UI. [Source Code](https://github.com/yourusername) (Coming Soon)
 
-- **Full-Stack Projects:**
+## Current Projects
+
+- **Front-End Projects:**
+  - **JavaScript DOM Manipulation Project:** A showcase of small, interactive JavaScript applications. [Source Code](https://github.com/yourusername) (Coming Soon)
   - **React/Redux Project:** Building a medium-sized front-end application using React and Redux, focusing on state management, component-based architecture, and responsive design. [Source Code](https://github.com/yourusername) (Coming Soon)
-  - **Node.js/Express.js Project:** Developing a scalable back-end with Node.js and Express.js, integrating with front-end applications for full-stack functionality. [Source Code](https://github.com/yourusername) (Coming Soon)
+
+- **Back-End Projects:**
+  - **Node.js/Express.js Project:** Developing a scalable back-end with Node.js and Express.js, designed to handle API requests, manage databases, and ensure secure and efficient server-side operations. [Source Code](https://github.com/yourusername) (Coming Soon)
+
+- **Full-Stack Projects:**
+  - **Full-Stack Application:** A complete, deployed full-stack project combining React, Redux, Node.js, and Express.js, integrating front-end and back-end technologies to create a seamless and responsive web application. [Source Code](https://github.com/yourusername) (Coming Soon)
 
 ---
 
