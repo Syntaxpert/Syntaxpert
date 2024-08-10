@@ -66,7 +66,7 @@ I’m **Josh**, a passionate software enthusiast specializing in web development
 
 ## ![About Me](https://img.shields.io/badge/About%20Me-34495E?style=for-the-badge&logo=github)
 
-I’m **Josh**, a dedicated software developer with expertise in **Python**, **HTML/CSS**, and **JavaScript**. I thrive on creating practical coding solutions that prioritize user experience. My goal is to harness the power of technology to solve real-world problems while continuously improving through collaboration and innovation.
+⚡ Beyond Code: I love reading, constantly diving into books that expand my understanding of technology, psychology, and personal growth. My love for calisthenics keeps me disciplined and focused, translating that same energy into my work. 
 
 **🎯 Career Objectives:**
 - Develop engaging and impactful software solutions.
@@ -77,7 +77,7 @@ I’m **Josh**, a dedicated software developer with expertise in **Python**, **H
 
 ## ![Contact](https://img.shields.io/badge/Contact-34495E?style=for-the-badge&logo=github)
 
-- **📧 Email:** [j.duong195@gmail.com](mailto:j.duong195@gmail.com)
+- **📧 Reach out to me:** [j.duong195@gmail.com](mailto:j.duong195@gmail.com)
 
 - **🔗 LinkedIn:** [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" style="width:20px; height:20px;">](https://www.linkedin.com/in/j-duong-199997321/)
 
