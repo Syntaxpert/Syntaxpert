@@ -8,7 +8,8 @@ I'm **Josh**, a software developer specializing in **Python**, **HTML/CSS**, and
 
 ⚡ Beyond Code: I'm passionate about **reading** and **calisthenics**, which keep me sharp and focused in both life and work.
 
-📫 Feel free to reach out to me at [j.duong195@gmail.com](mailto:j.duong195@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/j-duong-199997321/).
+📫 Feel free to reach out to me at [j.duong195@gmail.com](mailto:j.duong195@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/j-duong-199997321/) ![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png) 
+
 
 ---
 
