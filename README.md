@@ -33,8 +33,6 @@ I'm **Josh**, a software developer specializing in **Python**, **HTML/CSS**, and
 
 - **Web Development Projects:** Enhancing DOM manipulation with JavaScript, focused on responsive design and interactive UI. [Source Code](https://github.com/yourusername) (Coming Soon)
 
-## Current Projects
-
 - **Front-End Projects:**
   - **JavaScript DOM Manipulation Project:** A showcase of small, interactive JavaScript applications. [Source Code](https://github.com/yourusername) (Coming Soon)
   - **React/Redux Project:** Building a medium-sized front-end application using React and Redux, focusing on state management, component-based architecture, and responsive design. [Source Code](https://github.com/yourusername) (Coming Soon)
