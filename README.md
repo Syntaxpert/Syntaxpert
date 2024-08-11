@@ -2,9 +2,9 @@
 
 I'm **Josh**, a software developer specializing in **Python**, **HTML/CSS**, and **JavaScript**. I focus on building efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Check out my [portfolio](https://syntaxpert.netlify.app/) to see my work in action.
 
-🏢 Currently working on: [Web Development Projects](https://github.com/yourusername) and [Full-Stack Projects](https://github.com/yourusername).
+🏢 Currently working on Web Development Projects and Frontend Projects.
 
-🧰 I build with: Python, JavaScript, React, Node.js, MongoDB, and more.
+🧰 I build with: HTML/CSS, JavaScript, React, Node.js, MongoDB, and more.
 
 ⚡ Beyond Code: I'm passionate about **reading** and **calisthenics**, which keep me sharp and focused in both life and work.
 
