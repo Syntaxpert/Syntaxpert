@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Josh**, a software developer specializing in **HTML/CSS**, and **JavaScript**. I focus on building efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Check out my [portfolio](https://syntaxpert.netlify.app/) to see my work in action.
+I'm **Josh**, a software developer specializing in **HTML/CSS**, and **JavaScript**. I focus on building efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Check out my [portfolio](https://jduong195.netlify.app/) to see my work in action.
 
 🏢 Currently working on Web Development Projects and Frontend Projects.
 
