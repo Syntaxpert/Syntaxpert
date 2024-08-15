@@ -1,5 +1,5 @@
 
-I'm **Josh**, a software developer specializing in **HTML/CSS**, and **JavaScript**. I focus on building efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Check out my [portfolio](https://jduong195.netlify.app/) website.
+I'm **Josh**, a software developer specializing in **JavaScript**. I focus on building efficient, user-friendly solutions while continuously exploring new technologies to enhance productivity. Check out my [portfolio](https://jduong195.netlify.app/) website.
 
 🏢 Currently working on Web Development Projects and Frontend Projects.
 
