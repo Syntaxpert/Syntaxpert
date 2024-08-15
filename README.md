@@ -9,7 +9,7 @@ I'm **Josh**, a software developer specializing in **JavaScript**. I focus on bu
 
 🧰 I build with: JavaScript, React, Node.js, MongoDB, and more.
 
-⚡ Beyond Code: I'm passionate about **reading** and **calisthenics**, which keep me sharp and focused in both life and work.
+⚡ Beyond Code: I'm passionate about **productivity** and **calisthenics**, which keep me sharp and focused in both life and work.
 
 📫 Feel free to reach out to me at [j.duong195@gmail.com](mailto:j.duong195@gmail.com)
 
