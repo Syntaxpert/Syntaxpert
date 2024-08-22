@@ -20,3 +20,4 @@ I'm **Josh**, a software developer specializing in **JavaScript**. I focus on bu
 - 🎓 Google Data Analytics
 - 🎓 TestOut Network Pro
 - 🎓 IT Specialist Cyber Security
+- 🎓 Responsive Web Design
