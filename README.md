@@ -21,3 +21,4 @@ I'm **Josh**, a software developer specializing in **JavaScript**. I focus on bu
 - 🎓 TestOut Network Pro
 - 🎓 IT Specialist Cyber Security
 - 🎓 Responsive Web Design
+- 🎓 JavaScript Algorithms and Data Structures
