@@ -13,5 +13,4 @@
 - 🎓 Google Data Analytics
 - 🎓 TestOut Network Pro
 - 🎓 IT Specialist Cyber Security
-- 🎓 Responsive Web Design - FreeCodeCamp
-- 🎓 JavaScript Algorithms and Data Structures - FreeCodeCamp
+- 🎓 JavaScript Algorithms and Data Structures 
