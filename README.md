@@ -3,12 +3,3 @@
 
 
 ⚡ Beyond Code: I'm passionate about **productivity** which keep me sharp and focused in both life and work.
-
----
-
-## Certifications
-
-- 🎓 Google Data Analytics
-- 🎓 TestOut Network Pro
-- 🎓 IT Specialist Cyber Security
-- 🎓 JavaScript Algorithms and Data Structures 
